@@ -9,7 +9,7 @@ It is therefore recommended to test it on a virtual machine
 ## Set-up
 1. Clone this repository
 2. cd into the project directory
-3. To compile, simply type 
+3. To compile, simply type this on the command line :
     g++ mbr-overwrite.cpp -o mbr-overwrite
 
 ## Running
