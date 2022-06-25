@@ -8,8 +8,9 @@ It is therefore recommended to test it on a virtual machine
 
 ## Set-up
 1. Clone this repository
-2. Open the project folder in Microsoft Visual Studio
+2. cd into the project directory
+3. To compile, simply type 
+    g++ mbr-overwrite.cpp -o mbr-overwrite
 
 ## Running
-1. Build the project
-2. To run, click on the run button ; Note that it requires the highest UAC Privileges
+1. Run mbr-overwrite.exe in the command line or simply double click on it in the file explorer ; Note that it requires the highest UAC privileges !
